@@ -27,7 +27,7 @@ IMPORTANT NOTE:
 
 This script can be run for several months by another script I have in my
 other repository about learning bash-linux. The link is here:
-
+https://github.com/rosita-hormann/learning-bash-linux/blob/master/bash-scripting/run_python_script_repetidely.sh
 """
 
 import os
